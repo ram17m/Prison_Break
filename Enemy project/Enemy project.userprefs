@@ -1,15 +1,22 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\HeroHealth.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\mainmenu.cs">
     <Files>
-      <File FileName="Assets\Scripts\player.cs" Line="45" Column="44" />
-      <File FileName="Assets\bulletcontroll.cs" Line="7" Column="16" />
-      <File FileName="Assets\shoot.cs" Line="22" Column="5" />
-      <File FileName="Assets\Scripts\HeroHealth.cs" Line="28" Column="3" />
+      <File FileName="Assets\Scripts\enemyPath.cs" Line="26" Column="45" />
+      <File FileName="Assets\Scripts\player.cs" Line="66" Column="36" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="31" Column="75" />
+      <File FileName="Assets\Scripts\shoot.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Shooter.cs" Line="1" Column="1" />
+      <File FileName="Assets\clickonquit.cs" Line="1" Column="1" />
+      <File FileName="Assets\selectOnInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\mainmenu.cs" Line="11" Column="1" />
+      <File FileName="Assets\Scripts\die.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Bishwas Shrestha\Downloads\gitbash\TrippleThreat\Enemy project\Assets\Scripts\shoot.cs" line="25" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

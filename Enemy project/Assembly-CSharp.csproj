@@ -51,23 +51,18 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\bulletcontroll.cs" />
-     <Compile Include="Assets\Scripts\AttackTrigger.cs" />
-     <Compile Include="Assets\Scripts\detection.cs" />
+     <Compile Include="Assets\clickonquit.cs" />
+     <Compile Include="Assets\Scripts\die.cs" />
+     <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\enemyPath.cs" />
      <Compile Include="Assets\Scripts\FollowHero.cs" />
      <Compile Include="Assets\Scripts\FollowPath.cs" />
-     <Compile Include="Assets\Scripts\HealthPickUp.cs" />
-     <Compile Include="Assets\Scripts\HeroAttack.cs" />
-     <Compile Include="Assets\Scripts\HeroController.cs" />
-     <Compile Include="Assets\Scripts\HeroHealth.cs" />
-     <Compile Include="Assets\Scripts\HeroManager.cs" />
-     <Compile Include="Assets\Scripts\HorizontalMovement.cs" />
+     <Compile Include="Assets\Scripts\mainmenu.cs" />
      <Compile Include="Assets\Scripts\PathDefinition.cs" />
      <Compile Include="Assets\Scripts\player.cs" />
-     <Compile Include="Assets\Scripts\Rotation.cs" />
-     <Compile Include="Assets\Scripts\Saw.cs" />
-     <Compile Include="Assets\Scripts\VerticalMovement.cs" />
-     <Compile Include="Assets\shoot.cs" />
+     <Compile Include="Assets\Scripts\shoot.cs" />
+     <Compile Include="Assets\Scripts\Shooter.cs" />
+     <Compile Include="Assets\selectOnInput.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
